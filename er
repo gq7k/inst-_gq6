@@ -1,0 +1,8 @@
+{
+  "name": "<khaled>",
+  "description": "<repository description>",
+  "manifestVersion": 1,
+  "pluginLists": [grey.egybest.fit/
+    "<direct link to plugins.json>"
+  ]
+}
